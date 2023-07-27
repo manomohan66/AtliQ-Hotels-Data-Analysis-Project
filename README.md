@@ -6,7 +6,7 @@ The dataset was sourced from public repositories or real-world data, containing 
 
 **Key Objectives:**
 
-**Data Acquisition:** We obtained the hotel bookings dataset from relevant sources to start the analysis.
+**Data Acquisition:** Obtained the hotel bookings dataset from relevant sources to start the analysis.
 
 **Data Preprocessing**: Pandas was used to clean and format the dataset, ensuring it was ready for analysis. 
 We handled missing data, removed duplicates, and resolved inconsistencies.
