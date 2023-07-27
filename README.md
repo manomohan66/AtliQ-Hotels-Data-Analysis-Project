@@ -4,7 +4,7 @@
 In this project, we focused on conducting a comprehensive data analysis of hotel bookings using Python, Pandas, Matplotlib, and Jupyter Notebook. 
 The dataset was sourced from public repositories or real-world data, containing valuable information about hotel reservations.
 
-Key Objectives:
+**Key Objectives:**
 
 **Data Acquisition:** We obtained the hotel bookings dataset from relevant sources to start the analysis.
 
